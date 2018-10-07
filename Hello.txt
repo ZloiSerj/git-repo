@@ -1,2 +1,2 @@
-Print ("Go to");
-Print ("to");
+Print ("Go to;");
+Print ("to;");
